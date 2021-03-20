@@ -15,7 +15,7 @@
 <img src='./client/public/piedev-auth_1_1.gif' />
 
 ## About App
-A mern stack authentication system featuring tons errors handling, form validation with transactional email sending e.g: account activation, password reset link, and protecting routes and AppBar.
+A mern stack authentication system featuring tons of errors handling, form validation with transactional email sending e.g: account activation, password reset link, and protecting routes and AppBar.
 
 **Features and Errors handling**
 
