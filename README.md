@@ -5,7 +5,7 @@
     A Full MERN Stack Authentication Web
 </h3>
 <p align='center'>
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/pieeee/MERN-Stack-Authentication/blob/master/README.md"><strong>Explore the docs »</strong></a>
 </p>
 <p align="center">
     <strong>Live Demo:</strong>
@@ -13,7 +13,7 @@
 </p>
 </>
 <img src='./client/public/piedev-auth_1_1.gif' />
-#
+
 ## About App
 A mern stack authentication system featuring tons errors handling, form validation with transactional email sending e.g: account activation, password reset link, and protecting routes and AppBar.
 
@@ -30,7 +30,7 @@ A mern stack authentication system featuring tons errors handling, form validati
 - Sending forget password link and updating
 
 > **You may get emails on spam folder as the SMTP only for served for demo purpose**
-#
+
 ### Built With
 - [**Express**](https://expressjs.com/)
 - [**MongoDB**](https://www.mongodb.com/)
@@ -41,22 +41,22 @@ A mern stack authentication system featuring tons errors handling, form validati
 
 ### Getting Started
 1. **npm** or **yarn**. I prefer `yarn`.
-    <br>
+    
     ```
     npm install npm@latest -g
     npm install --global yarn
     ```
 2. Clone the repo
-    <br>
+    
     ```
     git clone https://github.com/pieeee/MERN-Stack-Authentication.git
     ```
 3. Navigate to `server` folder and install dependencies via `yarn` or `npm install`.
-<br>
+
 4.  Navigate to `client` folder and install dependencies via `yarn` or `npm install`.
-<br>
-5.  Find the `.env.local` in `server` directory and fill it with your variables.
-<br>
+
+5.  Find the ` .env.local` in `server` directory and fill it with your variables.
+
     ```
     JWT_SECRET =
     MONGO_URI =
@@ -65,7 +65,7 @@ A mern stack authentication system featuring tons errors handling, form validati
     NODE_ENV =
     ```
 6. On ther server directory run `yarn dev` to start server on `http://locahost:4000` in the development mode.
-   <br>
+   
 7. On ther client directory run `yarn start` to run application on `http://locahost:3000` in the development mode.
 
 ### App Structure
@@ -127,4 +127,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 Email: [info@piedev.tech]() 
+
 Project Link: [MERN-Stack-Authentication](https://github.com/pieeee/MERN-Stack-Authentication)
